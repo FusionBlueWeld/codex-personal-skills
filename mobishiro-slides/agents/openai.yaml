@@ -1,0 +1,4 @@
+interface:
+  display_name: "モビシロ・スライド"
+  short_description: "白基調の9:16モバイル向けHTMLスライドを作成・編集"
+  default_prompt: "$mobishiro-slides を使って、この内容をモビシロでスライド化して。"
